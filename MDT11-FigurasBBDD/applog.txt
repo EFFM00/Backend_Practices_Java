@@ -1,0 +1,6 @@
+INFO    2022-05-28 22:55:30,382 [main] Figura  - Se conectó a la BBDD
+INFO    2022-05-28 22:55:30,428 [main] Figura  - 1 - Triángulo - Rojo
+INFO    2022-05-28 22:55:30,428 [main] Figura  - 2 - Cuadrado - Azul
+INFO    2022-05-28 22:55:30,428 [main] Figura  - 3 - Círculo - Amarillo
+INFO    2022-05-28 22:55:30,428 [main] Figura  - 4 - Rectángulo - Verde
+INFO    2022-05-28 22:55:30,450 [main] Figura  - Se cerró la conexión
