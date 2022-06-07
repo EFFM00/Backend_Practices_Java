@@ -1,0 +1,1 @@
+Empresa{cuit='219482932', razonSocial='DH Inc.', nominaEmpleados=[]}
